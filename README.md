@@ -12,5 +12,6 @@
 
 
 ### Связь:
-mail: st106820@student.spbu.ru \n 
+mail: st106820@student.spbu.ru 
+
 tg: @R9grd
